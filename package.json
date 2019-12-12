@@ -1,0 +1,8 @@
+{
+  "name": "@cssguy39/in-ds",
+  "version": "0.0.1",
+  "repository": "git@github.com:cssguy39/in-ds.git",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
